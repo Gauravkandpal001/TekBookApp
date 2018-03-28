@@ -8,6 +8,7 @@
     "test": "grunt test",
     "build": "grunt build",
     "all": "npm run build && npm run test",
+    "postinstall": "grunt uglify",
     "start":"node server"
   },
   "engines": {
