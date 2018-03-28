@@ -7,7 +7,12 @@
   "scripts": {
     "test": "grunt test",
     "build": "grunt build",
-    "all": "npm run build && npm run test"
+    "all": "npm run build && npm run test",
+    "start":"node server"
+  },
+  "engines": {
+    "node": "6.10.3",
+    "npm":"3.8.0"
   },
   "dependencies": {
     "connect-flash": "^0.1.1",
