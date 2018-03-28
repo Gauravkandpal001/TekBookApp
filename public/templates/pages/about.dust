@@ -1,0 +1,32 @@
+{>"layouts/master" /}
+{<title}
+    About TekBooks
+{/title}
+
+{<body}
+    <div class="row">
+        <div class="large-12 columns">
+            <h2>About Us</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
+             nisi magna, molestie a elementum non, faucibus id dui. Nulla faci
+             lisi. Aenean non congue lacus, ac dapibus eros. Nunc volutpat sem
+             elementum purus pellentesque mattis. Etiam at risus mauris. Vesti
+             bulum odio dolor, faucibus at ex sit amet, aliquet fringilla velit.
+             Nullam ac dapibus urna. Duis et auctor dui. Integer non feugiat an
+             te, rutrum faucibus arcu. Pellentesque varius, nunc sed sagittis
+             convallis, magna magna placerat mi, id iaculis erat dolor et erat.
+             Donec sed consectetur odio, sit amet convallis ante.
+             Maecenas nisl risus, lacinia sed dui et, cursus ultrices justo.
+             Aenean pulvinar posuere turpis, in placerat lacus.
+</p>
+<p>
+Vivamus scelerisque orci et turpis gravida luctus. Lorem ipsum dolor
+sit amet, consectetur adipiscing elit. Quisque eu sem non ipsum soda
+les tristique et maximus diam. Aliquam erat volutpat. Nunc sed justo
+quis augue venenatis mollis. Interdum et malesuada fames ac ante ips
+um primis in faucibus. Integer quis nibh posuere, ultricies risus ac
+, vulputate ipsum. Class aptent taciti sociosqu ad litora torquent p
+er conubia nostra, per inceptos himenaeos.</p>
+        </div>
+    </div>
+{/body}
