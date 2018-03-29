@@ -7,8 +7,7 @@
   "scripts": {
     "test": "grunt test",
     "build": "grunt build",
-    "all": "npm run build && npm run test",
-    "start":"node server"
+    "all": "npm run build && npm run test"
   },
   "engines": {
     "node": "6.10.3",
